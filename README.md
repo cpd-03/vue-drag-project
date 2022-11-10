@@ -1,6 +1,6 @@
 # libawall-oa-pc-new
 
-篱笆墙人事平台PC管理端重构版（2022）
+PC端后台管理系统（2022）
 
 # 技术栈
 vue3 + ant-design-vue、css统一采用less写法、js统一采用es6写法
